@@ -25,3 +25,4 @@ For licensing requests, custom work, or partnerships, please contact:
 ---
 
 This license overrides any implicit or default open-source permissions unless stated otherwise in a separate contract or written agreement.
+---
