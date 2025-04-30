@@ -4,16 +4,6 @@
 
 ---
 
-## 📸 Preview
-
-> Add your actual image paths once pushed to GitHub
-
-![Light Mode](./screenshots/devburst-light.png)
-![Confetti Mode](./screenshots/devburst-confetti.png)
-![Dark Mode](./screenshots/devburst-dark.png)
-
----
-
 ## 🎯 Features
 
 - ✅ Confetti Celebration (tsparticles)
