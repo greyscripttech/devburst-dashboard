@@ -56,7 +56,7 @@ This project is 100% frontend — clean, portable, and plug-and-play ready.
 ---
 
 ## 🧩 Folder Structure
-
+```plaintext
 devburst-dashboard/
 ├── public/                   # Static assets like favicon, placeholders, etc.
 │   └── favicon.ico
@@ -88,6 +88,7 @@ devburst-dashboard/
 ├── tailwind.config.ts        # TailwindCSS configuration
 ├── tsconfig.json             # TypeScript configuration
 └── vite.config.ts            # Vite build config
+```
 
 ---
 
