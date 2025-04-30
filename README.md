@@ -1,73 +1,56 @@
-# Welcome to your Lovable project
+# 🚀 DevBurst – Modern SaaS Development Dashboard UI
 
-## Project info
+**DevBurst** is a premium, animated SaaS dashboard template built for tracking app development, deployments, system health, team progress, and milestones — all wrapped in a sleek, dark/light theme. It’s UI-first, component-rich, and perfect for showcasing frontend skills.
 
-**URL**: https://lovable.dev/projects/e2b18fa7-6442-4984-a81f-4cd20314abe8
+---
 
-## How can I edit this code?
+## 📸 Preview
 
-There are several ways of editing your application.
+> Add your actual image paths once pushed to GitHub
 
-**Use Lovable**
+![Light Mode](./screenshots/devburst-light.png)
+![Confetti Mode](./screenshots/devburst-confetti.png)
+![Dark Mode](./screenshots/devburst-dark.png)
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/e2b18fa7-6442-4984-a81f-4cd20314abe8) and start prompting.
+---
 
-Changes made via Lovable will be committed automatically to this repo.
+## 🎯 Features
 
-**Use your preferred IDE**
+- ✅ Confetti Celebration (tsparticles)
+- 📊 Key Metrics Cards (Deployments, Success Rate, Projects, Team)
+- 🧩 Project Cards (Active, Completed, Paused)
+- 🎥 Live Activity Feed (Real-time visual updates)
+- 📜 Milestone Timeline
+- 🌈 Dark Mode Toggle
+- 📦 System Health (API, DB, CDN, Storage)
+- 📁 Recent Projects & Team Activity Feed
+- 📤 Export & Refresh Support
+- 💡 Quote of the Day + Developer Tips
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+---
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+## 🧱 Tech Stack
 
-Follow these steps:
+| Tech            | Purpose                      |
+|-----------------|------------------------------|
+| **React**       | Core UI Logic                |
+| **TypeScript**  | Type Safety                  |
+| **Tailwind CSS**| Utility-first Design         |
+| **Shadcn/UI**   | Component Styling            |
+| **Vite**        | Blazing Fast Build Tool      |
+| **tsParticles** | Confetti Animation Engine    |
+| **Custom Hooks**| Toasts, Responsive UI        |
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+---
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+## 🔐 License & Usage
 
-# Step 3: Install the necessary dependencies.
-npm i
+> See [`LICENSE.md`](./LICENSE.md) for full terms.
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+This project is **not licensed for reuse, resale, or commercial redistribution** without express permission from GreyScript Technologies.
 
-**Edit a file directly in GitHub**
+To request a license or collaboration, contact:
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+📧 **greyscripttech@gmail.com**
 
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/e2b18fa7-6442-4984-a81f-4cd20314abe8) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+---
